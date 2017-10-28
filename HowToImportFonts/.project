@@ -14,16 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/fonts/NotoSans.ttf</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/Noto_Sans/NotoSans.ttf</locationURI>
-		</link>
-		<link>
-			<name>src/fonts/futurism.ttf</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/futurism/FUTURISM.TTF</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
